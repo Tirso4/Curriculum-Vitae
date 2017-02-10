@@ -1,4 +1,6 @@
 # Tirso Israel Lopez Bribiesca. 
+
+![](https://github.com/Tirso4/Curriculum-Vitae/blob/master/Foto.jpg)
 **Edad: 23 años**
 
 **Direccion Callejon Hidalgo y 33, San Luis Rio Colorado,Sonora**
