@@ -3,7 +3,7 @@
 ![](https://github.com/Tirso4/Curriculum-Vitae/blob/master/Foto.jpg)
 **Edad: 23 años**
 
-**Direccion Callejon Hidalgo y 33, San Luis Rio Colorado,Sonora**
+**Direccion: Callejon Hidalgo y 33, San Luis Rio Colorado,Sonora**
 
 **Tel: 0446538490895**
 
@@ -37,7 +37,7 @@
 **Ingles:** Bajo
 
 ***Software Manejados:***
-++Word,Exel.Powert Point,Eclipse,Netbeans,Git bash,Mysql,Markdown,Debian,Matlab++
+++ Word,Exel.Powert Point,Eclipse,Netbeans,Git bash,Mysql,Markdown,Debian,Matlab ++
 
 
 ***
