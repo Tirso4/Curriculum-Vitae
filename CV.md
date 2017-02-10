@@ -37,7 +37,7 @@
 **Ingles:** Bajo
 
 ***Software Manejados:***
-++ Word,Exel.Powert Point,Eclipse,Netbeans,Git bash,Mysql,Markdown,Debian,Matlab++
++++Word,Exel.Powert Point,Eclipse,Netbeans,Git bash,Mysql,Markdown,Debian,Matlab+++
 
 
 ***
